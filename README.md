@@ -12,7 +12,7 @@
 * Winform: .NET Framework 5.0.
 *	Mobile Client: Flutter.
 
-**### NOTE set up Demo: 
+### NOTE set up Demo: 
 * You can create datebase with 2 files code FLSCapstoneProjectDB.sql and FLSCapstoneProjectDBData.sql in server (SQL server).
 * Change path API (our server expired) in FE, winform and mobile to connect server
-* In forder Document -> Report7_Final-Project-Report.doc have all detail about our project**
+* In forder Document -> Report7_Final-Project-Report.doc have all detail about our project
