@@ -1,0 +1,86 @@
+[
+ {
+  "SlotTypeID": "ST11",
+  "TimeStart": "07:00",
+  "TimeEnd": "09:15",
+  "SlotNumber": 1,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST12",
+  "TimeStart": "09:45",
+  "TimeEnd": "12:00",
+  "SlotNumber": 2,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST13",
+  "TimeStart": "12:30",
+  "TimeEnd": "14:45",
+  "SlotNumber": 3,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST14",
+  "TimeStart": "15:15",
+  "TimeEnd": "17:30",
+  "SlotNumber": 4,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST21",
+  "TimeStart": "07:00",
+  "TimeEnd": "09:15",
+  "SlotNumber": 1,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST22",
+  "TimeStart": "09:45",
+  "TimeEnd": "12:00",
+  "SlotNumber": 2,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST23",
+  "TimeStart": "12:30",
+  "TimeEnd": "14:45",
+  "SlotNumber": 3,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST24",
+  "TimeStart": "15:15",
+  "TimeEnd": "17:30",
+  "SlotNumber": 4,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST31",
+  "TimeStart": "07:00",
+  "TimeEnd": "09:15",
+  "SlotNumber": 1,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST32",
+  "TimeStart": "09:45",
+  "TimeEnd": "12:00",
+  "SlotNumber": 2,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST33",
+  "TimeStart": "12:30",
+  "TimeEnd": "14:45",
+  "SlotNumber": 3,
+  "Status": 1
+ },
+ {
+  "SlotTypeID": "ST34",
+  "TimeStart": "15:15",
+  "TimeEnd": "17:30",
+  "SlotNumber": 4,
+  "Status": 1
+ }
+]

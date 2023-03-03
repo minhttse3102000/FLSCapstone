@@ -1,0 +1,1465 @@
+[
+ {
+  "CourseGroupItemID": "CGI5001",
+  "LecturerCourseGroupID": "LG915",
+  "CourseID": "PRJ301_SE1603",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5002",
+  "LecturerCourseGroupID": "LG915",
+  "CourseID": "PRJ301_SE1602",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5003",
+  "LecturerCourseGroupID": "LG915",
+  "CourseID": "PRJ301_SE1605",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5018",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSD201_SE1734",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5019",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSD201_SE1746",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5020",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSD201_SE1736",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5021",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSD201_SE1748",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5022",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSD201_SE1738",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5023",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSD203_AI1704",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5024",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSD203_AI1702",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5025",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSD203_AI1703",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5026",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSI104_SE1706",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5027",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSI104_SE1703",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5028",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSI104_SE1701",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5029",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSI104_SE1707",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5030",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSI104_SE1705",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5031",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "CSI104_SE1704",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5032",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "LAB211_SE1754",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5033",
+  "LecturerCourseGroupID": "LG916",
+  "CourseID": "LAB211_SE1755",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5034",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "CEA201_SE1702",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5035",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "CEA201_SE1704",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5036",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "CEA201_SE1706",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5037",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "CEA201_IA1701",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5038",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "CEA201_SE1701",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5039",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "CEA201_SE1703",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5040",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "IOT102_SE1605_Half 1",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5041",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "IOT102_SE1601_Half 1",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5042",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "IOT102_SE1604_Half 2",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5043",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "IOT102_SE1603_Half 1",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5044",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "IOT102_AI1601_Half 2",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5045",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "IOT102_SE1602_Half 1",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5046",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "OSG202_SE1710",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5047",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "OSG202_SE1722",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5048",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "OSG202_SE1712",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5049",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "OSG202_SE1714",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5050",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "OSG202_SE1716",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5051",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "OSG202_SE1726",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5052",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "PRO192_SE1728",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5053",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "PRO192_SE1723",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5054",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "PRO192_IA1705",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5055",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "PRO192_SE1709",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5056",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "PRO192_SE1721",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5057",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "PRM392_SE1503",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5058",
+  "LecturerCourseGroupID": "LG917",
+  "CourseID": "PRM392_SE1502",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5059",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "PFP191_AI1701",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5060",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "PRF192_SE1705",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5061",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "PRF192_SE1707",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5062",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "PRF192_SE1701",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5063",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "DBI202_SE1743",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5064",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "DBI202_AI1702",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5065",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "DBI202_SE1747",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5066",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "DBI202_SE1754",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5067",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "DBI202_AI1704",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5068",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "DBI202_IA1708",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5069",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "IOT102_SE1602_Half 1",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5070",
+  "LecturerCourseGroupID": "LG918",
+  "CourseID": "IOT102_SE1606_Half 2",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5071",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "ADY201m_AI1707",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5072",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "ADY201m_AI1705",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5073",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "CEA201_SE1701",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5074",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "CEA201_SE1703",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5075",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "CEA201_SE1705",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5076",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "CSI104_SE1705",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5077",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "CSI104_SE1704",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5078",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "CSI104_SE1702",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5079",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "CSI104_IA1701",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5080",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "CSI105_AI1701",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5081",
+  "LecturerCourseGroupID": "LG919",
+  "CourseID": "PRM391_SE1501",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5082",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "ADY201m_AI1705",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5083",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "ADY201m_AI1708",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5084",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "ADY201m_AI1706",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5085",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "CSD301_AI1602",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5086",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "CSD301_AI1603",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5087",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "DBI202_AI1703",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5088",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "DBI202_IA1707",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5089",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "DBI202_SE1742",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5090",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "DBI202_IA1706",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5091",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "FER201m_SE1616",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5092",
+  "LecturerCourseGroupID": "LG920",
+  "CourseID": "FER201m_SE1614",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5093",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "CSD203_AI1704",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5094",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "CSD203_AI1702",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5095",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "CSD203_AI1703",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5096",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "PRO192_IA1703",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5097",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "PRO192_SE1715",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5098",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "PRO192_SE1727",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5099",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "PRO192_SE1725",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5100",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "PRO192_SE1731",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5101",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "PRF192_SE1704",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5102",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "PRF192_SE1706",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5103",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "PRF192_IA1701",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5104",
+  "LecturerCourseGroupID": "LG921",
+  "CourseID": "PRU211m_SE1502",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5118",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "FER201m_SE1616",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5119",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "HCI201_SE1501",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5120",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "PRN211_SE1609",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5121",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "PRN231_SE1504",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5122",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "PRU211m_SE1502",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5123",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "SWD391_SE1516",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5124",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "SWP391_SE1613",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5125",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "SWR302_SE1611",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5126",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "HCI201_SE1516",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5127",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "PRN221_SE1502",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5128",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "SWT301_SE1611",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5129",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "SWT301_SE1608",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5131",
+  "LecturerCourseGroupID": "LG9",
+  "CourseID": "CSI105_AI1701",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5132",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "FER201m_SE1614",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5133",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "HCI201_SE1516",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5134",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "PRN211_SE1607",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5135",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "PRN231_SE1506",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5136",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "PRU221m_SE1504",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5137",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "SWD391_SE1501",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5138",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "SWD392_SE1502",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5139",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "SWP391_SE1607",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5140",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "SWD392_SE1503",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5141",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "SWD391_SE1516",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5142",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "SWR302_SE1611",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5143",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "OSG202_SE1728",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5144",
+  "LecturerCourseGroupID": "LG10",
+  "CourseID": "HCI201_SE1501",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5145",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "FER201m_SE1613",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5146",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "HCI201_SE1501",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5147",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "PRN211_SE1610",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5148",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "PRN231_SE1505",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5149",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "PRU211m_SE1503",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5150",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "SWD391_SE1516",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5151",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "SWP391_SE1611",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5152",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "SWR302_SE1610",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5153",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "SWD392_SE1503",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5154",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "PRU221m_SE1504",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5155",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "FER201m_SE1614",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5156",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "SWT301_SE1613",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5157",
+  "LecturerCourseGroupID": "LG11",
+  "CourseID": "PRM392_SE1503",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1111",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "LAB211_SE1753",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1112",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "LAB211_SE1739",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1113",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "LAB221_SE1605",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1114",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "PRO192_SE1714",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1115",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "PRO192_SE1718",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1116",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "PRN211_SE1611",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1117",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "PRN221_SE1502",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1118",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "PRN231_SE1504",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1119",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "PRF192_SE1705",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1120",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "PRF192_SE1707",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1121",
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "CourseID": "PRF192_SE1701",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1122",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "LAB211_SE1741",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1123",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "LAB211_SE1754",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1124",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "LAB211_SE1755",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1125",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "LAB211_SE1743",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1126",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "LAB211_SE1751",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1127",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "LAB211_SE1708",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1128",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "LAB221_SE1605",
+  "Prioriry": 3,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1129",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "LAB231_SE1612",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1130",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "DBW301_SE1517",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1131",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "DBW301_SE1509",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1132",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "DBW301_SE1508",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1133",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "DBI202_SE1755",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1134",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "DBI202_SE1737",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1135",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "DBI202_SE1749",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1136",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "DBI202_SE1745",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1137",
+  "LecturerCourseGroupID": "LGTaint5",
+  "CourseID": "DBI202_SE1735",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1138",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "LAB211_SE1734",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1139",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "LAB211_SE1746",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1140",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "LAB211_SE1736",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1141",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "LAB211_SE1738",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1142",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "LAB211_SE1742",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1143",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "LAB221_SE1605",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1144",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "LAB231_SE1612",
+  "Prioriry": 2,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1145",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "PRO192_SE1719",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1146",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "PRO192_SE1711",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1147",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "PRO192_SE1713",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1148",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "PRO192_SE1717",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1149",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "PRO192_SE1729",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1150",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "PRF192_SE1704",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1151",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "PRF192_SE1706",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1152",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "PRF192_IA1701",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1153",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "PRF192_SE1702",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1154",
+  "LecturerCourseGroupID": "LGThongNT",
+  "CourseID": "PRF192_SE1703",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1155",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "LAB211_SE1755",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1156",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "LAB211_SE1743",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1157",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "LAB211_SE1751",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1158",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "LAB211_SE1708",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1159",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "LAB211_SE1747",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1160",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "LAB221_SE1605",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1161",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "LAB231_SE1612",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1162",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "PRO192_SE1710",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1163",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "PRO192_SE1722",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1164",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "PRO192_SE1708",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1165",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "PRO192_SE1720",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1166",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "PRO192_SE1714",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1167",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "DBI202_SE1732",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1168",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "DBI202_SE1748",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1169",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "DBI202_SE1738",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1170",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "DBI202_SE1736",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1171",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "DBI202_SE1752",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1172",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "DBI202_SE1746",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1173",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "DBI202_SE1750",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1174",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "DBI202_SE1740",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1175",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "SWR302_SE1607",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1176",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "SWR302_SE1611",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1177",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "SWR302_SE1609",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1178",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "SWR302_SE1613",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI1179",
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "CourseID": "SWR302_SE1614",
+  "Prioriry": 1,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5158",
+  "LecturerCourseGroupID": "LGAnNDH2",
+  "CourseID": "PRM391_SE1501",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5159",
+  "LecturerCourseGroupID": "LGAnNDH2",
+  "CourseID": "PRM391_SE1516",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5160",
+  "LecturerCourseGroupID": "LGAnNDH2",
+  "CourseID": "PRM392_SE1503",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5161",
+  "LecturerCourseGroupID": "LGAnNDH2",
+  "CourseID": "PRM392_SE1502",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5162",
+  "LecturerCourseGroupID": "LGKhanhKT",
+  "CourseID": "PRX301_SE1517",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5163",
+  "LecturerCourseGroupID": "LGKhanhKT",
+  "CourseID": "PRX301_SE1509",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5164",
+  "LecturerCourseGroupID": "LGKhanhKT",
+  "CourseID": "PRX301_SE1508",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5165",
+  "LecturerCourseGroupID": "LGNguyenTT15",
+  "CourseID": "DBW301_SE1517",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5166",
+  "LecturerCourseGroupID": "LGNguyenTT15",
+  "CourseID": "DBW301_SE1509",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5167",
+  "LecturerCourseGroupID": "LGNguyenTT15",
+  "CourseID": "DBW301_SE1508",
+  "Prioriry": 4,
+  "Status": 1
+ },
+ {
+  "CourseGroupItemID": "CGI5168",
+  "LecturerCourseGroupID": "LGNguyenTT15",
+  "CourseID": "DBM301_AI1502",
+  "Prioriry": 3,
+  "Status": 1
+ }
+]

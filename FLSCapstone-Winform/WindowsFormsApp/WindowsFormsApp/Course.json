@@ -1,0 +1,2315 @@
+[
+ {
+  "CourseID": "ADY201m_AI1707",
+  "SubjectID": "ADY201m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "ADY201m_AI1705",
+  "SubjectID": "ADY201m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "ADY201m_AI1708",
+  "SubjectID": "ADY201m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "ADY201m_AI1706",
+  "SubjectID": "ADY201m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CEA201_SE1702",
+  "SubjectID": "CEA201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CEA201_SE1704",
+  "SubjectID": "CEA201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CEA201_SE1706",
+  "SubjectID": "CEA201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CEA201_IA1701",
+  "SubjectID": "CEA201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CEA201_SE1701",
+  "SubjectID": "CEA201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CEA201_SE1703",
+  "SubjectID": "CEA201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CEA201_SE1705",
+  "SubjectID": "CEA201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CEA201_SE1707",
+  "SubjectID": "CEA201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1747",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1754",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_IA1708",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1743",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1733",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1745",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1735",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1737",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1749",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1753",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1739",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1751",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1741",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1732",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_IA1706",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1744",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1734",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1746",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1736",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1748",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1738",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1742",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1750",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1740",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD201_SE1752",
+  "SubjectID": "CSD201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD203_AI1704",
+  "SubjectID": "CSD203",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD203_AI1702",
+  "SubjectID": "CSD203",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD203_AI1703",
+  "SubjectID": "CSD203",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD301_AI1602",
+  "SubjectID": "CSD301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSD301_AI1603",
+  "SubjectID": "CSD301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSI104_SE1704",
+  "SubjectID": "CSI104",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSI104_SE1702",
+  "SubjectID": "CSI104",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSI104_IA1701",
+  "SubjectID": "CSI104",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSI104_SE1706",
+  "SubjectID": "CSI104",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSI104_SE1703",
+  "SubjectID": "CSI104",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSI104_SE1701",
+  "SubjectID": "CSI104",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSI104_SE1707",
+  "SubjectID": "CSI104",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSI104_SE1705",
+  "SubjectID": "CSI104",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "CSI105_AI1701",
+  "SubjectID": "CSI105",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1743",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_AI1702",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1747",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1754",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_AI1704",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_IA1708",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1755",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1737",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1749",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1745",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1735",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1751",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1733",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1741",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1739",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1753",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1744",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1734",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_AI1703",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_IA1707",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1742",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_IA1706",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1732",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1748",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1738",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1736",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1752",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1746",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1750",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBI202_SE1740",
+  "SubjectID": "DBI202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "IOT102_SE1605_Half 1",
+  "SubjectID": "IOT102",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "IOT102_SE1601_Half 1",
+  "SubjectID": "IOT102",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "IOT102_SE1604_Half 2",
+  "SubjectID": "IOT102",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "IOT102_SE1603_Half 1",
+  "SubjectID": "IOT102",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "IOT102_AI1601_Half 2",
+  "SubjectID": "IOT102",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "IOT102_SE1602_Half 1",
+  "SubjectID": "IOT102",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "IOT102_SE1606_Half 2",
+  "SubjectID": "IOT102",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1728",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1708",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1720",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_IA1704",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1710",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1722",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1712",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1714",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1716",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1726",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1718",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1724",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1730",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1709",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1713",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_IA1703",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1721",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1723",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1725",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1715",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1727",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1711",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1717",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1729",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1719",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_IA1705",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "OSG202_SE1731",
+  "SubjectID": "OSG202",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PFP191_AI1701",
+  "SubjectID": "PFP191",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRF192_SE1704",
+  "SubjectID": "PRF192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRF192_SE1706",
+  "SubjectID": "PRF192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRF192_IA1701",
+  "SubjectID": "PRF192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRF192_SE1702",
+  "SubjectID": "PRF192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRF192_SE1703",
+  "SubjectID": "PRF192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRF192_SE1705",
+  "SubjectID": "PRF192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRF192_SE1707",
+  "SubjectID": "PRF192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRF192_SE1701",
+  "SubjectID": "PRF192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRJ301_SE1603",
+  "SubjectID": "PRJ301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRJ301_SE1602",
+  "SubjectID": "PRJ301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRJ301_SE1605",
+  "SubjectID": "PRJ301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRJ301_SE1601",
+  "SubjectID": "PRJ301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRJ301_SE1604",
+  "SubjectID": "PRJ301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRJ301_SE1606",
+  "SubjectID": "PRJ301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1710",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1722",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1708",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1720",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1714",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1726",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_IA1704",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1712",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1724",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1718",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1730",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1716",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1728",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1723",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_IA1705",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1709",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1721",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_IA1703",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1715",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1727",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1725",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1731",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1719",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1711",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1713",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1717",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRO192_SE1729",
+  "SubjectID": "PRO192",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "AIL302m_AI1602",
+  "SubjectID": "AIL302m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "AIL302m_AI1603",
+  "SubjectID": "AIL302m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "AIP391_AI1602",
+  "SubjectID": "AIP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "AIP391_AI1603",
+  "SubjectID": "AIP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "AIT301_SE1507",
+  "SubjectID": "AIT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBM301_AI1502",
+  "SubjectID": "DBM301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBP391_AI1502",
+  "SubjectID": "DBP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBW301_SE1517",
+  "SubjectID": "DBW301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBW301_SE1509",
+  "SubjectID": "DBW301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DBW301_SE1508",
+  "SubjectID": "DBW301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DGT301_AI1602",
+  "SubjectID": "DGT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DGT301_AI1603",
+  "SubjectID": "DGT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "DMT301_SE1507",
+  "SubjectID": "DMT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "ESS301_SE1507",
+  "SubjectID": "ESS301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "ISC301_SE1501",
+  "SubjectID": "ISC301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "ISC301_SE1516",
+  "SubjectID": "ISC301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRM391_SE1501",
+  "SubjectID": "PRM391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRM391_SE1516",
+  "SubjectID": "PRM391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRM392_SE1503",
+  "SubjectID": "PRM392",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRM392_SE1502",
+  "SubjectID": "PRM392",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRX301_SE1517",
+  "SubjectID": "PRX301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRX301_SE1509",
+  "SubjectID": "PRX301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRX301_SE1508",
+  "SubjectID": "PRX301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1753",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1739",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1741",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1754",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1755",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1743",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1751",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1708",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1747",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1745",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1735",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1749",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1733",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1737",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1750",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1740",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1752",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1732",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1706",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1707",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1734",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1746",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1736",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1738",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB211_SE1742",
+  "SubjectID": "LAB211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB221_SE1605",
+  "SubjectID": "LAB221",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "LAB231_SE1612",
+  "SubjectID": "LAB231",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "Null",
+  "Description": "Null",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "FER201m_SE1613",
+  "SubjectID": "FER201m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "FER201m_SE1616",
+  "SubjectID": "FER201m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "FER201m_SE1614",
+  "SubjectID": "FER201m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "HCI201_SE1516",
+  "SubjectID": "HCI201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "HCI201_SE1501",
+  "SubjectID": "HCI201",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRN211_SE1611",
+  "SubjectID": "PRN211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRN211_SE1609",
+  "SubjectID": "PRN211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRN211_SE1607",
+  "SubjectID": "PRN211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRN211_SE1610",
+  "SubjectID": "PRN211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRN211_SE1608",
+  "SubjectID": "PRN211",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRN221_SE1502",
+  "SubjectID": "PRN221",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRN221_SE1503",
+  "SubjectID": "PRN221",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRN231_SE1505",
+  "SubjectID": "PRN231",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRN231_SE1504",
+  "SubjectID": "PRN231",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRN231_SE1506",
+  "SubjectID": "PRN231",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRU211m_SE1503",
+  "SubjectID": "PRU211m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRU211m_SE1502",
+  "SubjectID": "PRU211m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "PRU221m_SE1504",
+  "SubjectID": "PRU221m",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWD391_SE1501",
+  "SubjectID": "SWD391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWD391_SE1516",
+  "SubjectID": "SWD391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWD392_SE1503",
+  "SubjectID": "SWD392",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWD392_SE1502",
+  "SubjectID": "SWD392",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWP391_SE1609",
+  "SubjectID": "SWP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWP391_SE1613",
+  "SubjectID": "SWP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWP391_SE1607",
+  "SubjectID": "SWP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWP391_SE1611",
+  "SubjectID": "SWP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWP391_SE1608",
+  "SubjectID": "SWP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWP391_SE1615",
+  "SubjectID": "SWP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWP391_SE1610",
+  "SubjectID": "SWP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWP391_SE1614",
+  "SubjectID": "SWP391",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 33,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWR302_SE1607",
+  "SubjectID": "SWR302",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWR302_SE1611",
+  "SubjectID": "SWR302",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWR302_SE1609",
+  "SubjectID": "SWR302",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWR302_SE1613",
+  "SubjectID": "SWR302",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWR302_SE1614",
+  "SubjectID": "SWR302",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWR302_SE1615",
+  "SubjectID": "SWR302",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWR302_SE1616",
+  "SubjectID": "SWR302",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWR302_SE1608",
+  "SubjectID": "SWR302",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWR302_SE1610",
+  "SubjectID": "SWR302",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWR302_SE1612",
+  "SubjectID": "SWR302",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWT301_SE1612",
+  "SubjectID": "SWT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWT301_SE1611",
+  "SubjectID": "SWT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWT301_SE1607",
+  "SubjectID": "SWT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWT301_SE1613",
+  "SubjectID": "SWT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWT301_SE1609",
+  "SubjectID": "SWT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWT301_SE1616",
+  "SubjectID": "SWT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWT301_SE1614",
+  "SubjectID": "SWT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWT301_SE1615",
+  "SubjectID": "SWT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWT301_SE1610",
+  "SubjectID": "SWT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ },
+ {
+  "CourseID": "SWT301_SE1608",
+  "SubjectID": "SWT301",
+  "SesmeterID": "FA22",
+  "SlotTypeID": "NULL",
+  "Description": "NULL",
+  "SlotAmount": 30,
+  "Status": 1
+ }
+]

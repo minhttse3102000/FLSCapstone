@@ -1,0 +1,30 @@
+C:\Users\84393\Desktop\Scheduler\FPTULecturerScheduler\bin\Debug\FPTULecturerScheduler.dll
+C:\Users\84393\Desktop\Scheduler\FPTULecturerScheduler\bin\Debug\FPTULecturerScheduler.pdb
+C:\Users\84393\Desktop\Scheduler\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.csproj.AssemblyReference.cache
+C:\Users\84393\Desktop\Scheduler\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.csproj.CoreCompileInputs.cache
+C:\Users\84393\Desktop\Scheduler\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.dll
+C:\Users\84393\Desktop\Scheduler\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.pdb
+C:\Users\84393\Desktop\Scheduler - Copy\FPTULecturerScheduler\bin\Debug\FPTULecturerScheduler.dll
+C:\Users\84393\Desktop\Scheduler - Copy\FPTULecturerScheduler\bin\Debug\FPTULecturerScheduler.pdb
+C:\Users\84393\Desktop\Scheduler - Copy\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.csproj.AssemblyReference.cache
+C:\Users\84393\Desktop\Scheduler - Copy\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.csproj.CoreCompileInputs.cache
+C:\Users\84393\Desktop\Scheduler - Copy\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.dll
+C:\Users\84393\Desktop\Scheduler - Copy\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.pdb
+C:\Users\84393\Desktop\Capstone\WindowsFormsApp\FPTULecturerScheduler\bin\Debug\FPTULecturerScheduler.dll
+C:\Users\84393\Desktop\Capstone\WindowsFormsApp\FPTULecturerScheduler\bin\Debug\FPTULecturerScheduler.pdb
+C:\Users\84393\Desktop\Capstone\WindowsFormsApp\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.csproj.AssemblyReference.cache
+C:\Users\84393\Desktop\Capstone\WindowsFormsApp\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.csproj.CoreCompileInputs.cache
+C:\Users\84393\Desktop\Capstone\WindowsFormsApp\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.dll
+C:\Users\84393\Desktop\Capstone\WindowsFormsApp\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.pdb
+C:\Users\84393\Desktop\Capstone\WindowsFormsApp\FPTULecturerScheduler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\84393\Desktop\Capstone\WindowsFormsApp\FPTULecturerScheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\84393\Desktop\Capstone\WindowsFormsApp\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.csproj.CopyComplete
+C:\Users\84393\Desktop\Capstone\FLSCapstone\WindowsFormsApp\FPTULecturerScheduler\bin\Debug\FPTULecturerScheduler.dll
+C:\Users\84393\Desktop\Capstone\FLSCapstone\WindowsFormsApp\FPTULecturerScheduler\bin\Debug\FPTULecturerScheduler.pdb
+C:\Users\84393\Desktop\Capstone\FLSCapstone\WindowsFormsApp\FPTULecturerScheduler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\84393\Desktop\Capstone\FLSCapstone\WindowsFormsApp\FPTULecturerScheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\84393\Desktop\Capstone\FLSCapstone\WindowsFormsApp\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.csproj.AssemblyReference.cache
+C:\Users\84393\Desktop\Capstone\FLSCapstone\WindowsFormsApp\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.csproj.CoreCompileInputs.cache
+C:\Users\84393\Desktop\Capstone\FLSCapstone\WindowsFormsApp\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.csproj.CopyComplete
+C:\Users\84393\Desktop\Capstone\FLSCapstone\WindowsFormsApp\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.dll
+C:\Users\84393\Desktop\Capstone\FLSCapstone\WindowsFormsApp\FPTULecturerScheduler\obj\Debug\FPTULecturerScheduler.pdb

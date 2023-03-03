@@ -1,0 +1,2054 @@
+[
+ {
+  "Id": "SC1",
+  "SlotTypeId": "ST11",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC2",
+  "SlotTypeId": "ST12",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC3",
+  "SlotTypeId": "ST13",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC4",
+  "SlotTypeId": "ST14",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC5",
+  "SlotTypeId": "ST21",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC6",
+  "SlotTypeId": "ST22",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC7",
+  "SlotTypeId": "ST23",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC8",
+  "SlotTypeId": "ST24",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC9",
+  "SlotTypeId": "ST31",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC10",
+  "SlotTypeId": "ST32",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC11",
+  "SlotTypeId": "ST33",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC12",
+  "SlotTypeId": "ST34",
+  "LecturerId": "AnNDH2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC13",
+  "SlotTypeId": "ST11",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC14",
+  "SlotTypeId": "ST12",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC15",
+  "SlotTypeId": "ST13",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC16",
+  "SlotTypeId": "ST14",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC17",
+  "SlotTypeId": "ST21",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC18",
+  "SlotTypeId": "ST22",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC19",
+  "SlotTypeId": "ST23",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC20",
+  "SlotTypeId": "ST24",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC21",
+  "SlotTypeId": "ST31",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC22",
+  "SlotTypeId": "ST32",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC23",
+  "SlotTypeId": "ST33",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC24",
+  "SlotTypeId": "ST34",
+  "LecturerId": "HoaDNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC25",
+  "SlotTypeId": "ST11",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC26",
+  "SlotTypeId": "ST12",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC27",
+  "SlotTypeId": "ST13",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC28",
+  "SlotTypeId": "ST14",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC29",
+  "SlotTypeId": "ST21",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC30",
+  "SlotTypeId": "ST22",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC31",
+  "SlotTypeId": "ST23",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC32",
+  "SlotTypeId": "ST24",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC33",
+  "SlotTypeId": "ST31",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC34",
+  "SlotTypeId": "ST32",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC35",
+  "SlotTypeId": "ST33",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC36",
+  "SlotTypeId": "ST34",
+  "LecturerId": "HoangNT20",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC37",
+  "SlotTypeId": "ST11",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC38",
+  "SlotTypeId": "ST12",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC39",
+  "SlotTypeId": "ST13",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC40",
+  "SlotTypeId": "ST14",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC41",
+  "SlotTypeId": "ST21",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC42",
+  "SlotTypeId": "ST22",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC43",
+  "SlotTypeId": "ST23",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC44",
+  "SlotTypeId": "ST24",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC45",
+  "SlotTypeId": "ST31",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC46",
+  "SlotTypeId": "ST32",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC47",
+  "SlotTypeId": "ST33",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC48",
+  "SlotTypeId": "ST34",
+  "LecturerId": "HungBT3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC49",
+  "SlotTypeId": "ST11",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC50",
+  "SlotTypeId": "ST12",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC51",
+  "SlotTypeId": "ST13",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC52",
+  "SlotTypeId": "ST14",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC53",
+  "SlotTypeId": "ST21",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC54",
+  "SlotTypeId": "ST22",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC55",
+  "SlotTypeId": "ST23",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC56",
+  "SlotTypeId": "ST24",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC57",
+  "SlotTypeId": "ST31",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC58",
+  "SlotTypeId": "ST32",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC59",
+  "SlotTypeId": "ST33",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC60",
+  "SlotTypeId": "ST34",
+  "LecturerId": "HungLD5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC61",
+  "SlotTypeId": "ST11",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC62",
+  "SlotTypeId": "ST12",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC63",
+  "SlotTypeId": "ST13",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC64",
+  "SlotTypeId": "ST14",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC65",
+  "SlotTypeId": "ST21",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC66",
+  "SlotTypeId": "ST22",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC67",
+  "SlotTypeId": "ST23",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC68",
+  "SlotTypeId": "ST24",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC69",
+  "SlotTypeId": "ST31",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC70",
+  "SlotTypeId": "ST32",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC71",
+  "SlotTypeId": "ST33",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC72",
+  "SlotTypeId": "ST34",
+  "LecturerId": "HuongNTC2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC73",
+  "SlotTypeId": "ST11",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC74",
+  "SlotTypeId": "ST12",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC75",
+  "SlotTypeId": "ST13",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC76",
+  "SlotTypeId": "ST14",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC77",
+  "SlotTypeId": "ST21",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC78",
+  "SlotTypeId": "ST22",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC79",
+  "SlotTypeId": "ST23",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC80",
+  "SlotTypeId": "ST24",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC81",
+  "SlotTypeId": "ST31",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC82",
+  "SlotTypeId": "ST32",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC83",
+  "SlotTypeId": "ST33",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC84",
+  "SlotTypeId": "ST34",
+  "LecturerId": "KhanhKT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC85",
+  "SlotTypeId": "ST11",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC86",
+  "SlotTypeId": "ST12",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC87",
+  "SlotTypeId": "ST13",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC88",
+  "SlotTypeId": "ST14",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC89",
+  "SlotTypeId": "ST21",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC90",
+  "SlotTypeId": "ST22",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC91",
+  "SlotTypeId": "ST23",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC92",
+  "SlotTypeId": "ST24",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC93",
+  "SlotTypeId": "ST31",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC94",
+  "SlotTypeId": "ST32",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC95",
+  "SlotTypeId": "ST33",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC96",
+  "SlotTypeId": "ST34",
+  "LecturerId": "KiemHH",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC97",
+  "SlotTypeId": "ST11",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 0,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC98",
+  "SlotTypeId": "ST12",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC99",
+  "SlotTypeId": "ST13",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC100",
+  "SlotTypeId": "ST14",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC101",
+  "SlotTypeId": "ST21",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC102",
+  "SlotTypeId": "ST22",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC103",
+  "SlotTypeId": "ST23",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC104",
+  "SlotTypeId": "ST24",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC105",
+  "SlotTypeId": "ST31",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC106",
+  "SlotTypeId": "ST32",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC107",
+  "SlotTypeId": "ST33",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC108",
+  "SlotTypeId": "ST34",
+  "LecturerId": "LoiND9",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC109",
+  "SlotTypeId": "ST11",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC110",
+  "SlotTypeId": "ST12",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC111",
+  "SlotTypeId": "ST13",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC112",
+  "SlotTypeId": "ST14",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC113",
+  "SlotTypeId": "ST21",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 1,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC114",
+  "SlotTypeId": "ST22",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 1,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC115",
+  "SlotTypeId": "ST23",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 1,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC116",
+  "SlotTypeId": "ST24",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 1,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC117",
+  "SlotTypeId": "ST31",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC118",
+  "SlotTypeId": "ST32",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC119",
+  "SlotTypeId": "ST33",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC120",
+  "SlotTypeId": "ST34",
+  "LecturerId": "NamH3",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC121",
+  "SlotTypeId": "ST11",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC122",
+  "SlotTypeId": "ST12",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC123",
+  "SlotTypeId": "ST13",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC124",
+  "SlotTypeId": "ST14",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC125",
+  "SlotTypeId": "ST21",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC126",
+  "SlotTypeId": "ST22",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC127",
+  "SlotTypeId": "ST23",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC128",
+  "SlotTypeId": "ST24",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC129",
+  "SlotTypeId": "ST31",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC130",
+  "SlotTypeId": "ST32",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC131",
+  "SlotTypeId": "ST33",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC132",
+  "SlotTypeId": "ST34",
+  "LecturerId": "NguyenTT15",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC133",
+  "SlotTypeId": "ST11",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC134",
+  "SlotTypeId": "ST12",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC135",
+  "SlotTypeId": "ST13",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC136",
+  "SlotTypeId": "ST14",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC137",
+  "SlotTypeId": "ST21",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC138",
+  "SlotTypeId": "ST22",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC139",
+  "SlotTypeId": "ST23",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC140",
+  "SlotTypeId": "ST24",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC141",
+  "SlotTypeId": "ST31",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC142",
+  "SlotTypeId": "ST32",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC143",
+  "SlotTypeId": "ST33",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC144",
+  "SlotTypeId": "ST34",
+  "LecturerId": "PhongVT12",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC145",
+  "SlotTypeId": "ST11",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC146",
+  "SlotTypeId": "ST12",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC147",
+  "SlotTypeId": "ST13",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC148",
+  "SlotTypeId": "ST14",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC149",
+  "SlotTypeId": "ST21",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC150",
+  "SlotTypeId": "ST22",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC151",
+  "SlotTypeId": "ST23",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC152",
+  "SlotTypeId": "ST24",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC153",
+  "SlotTypeId": "ST31",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC154",
+  "SlotTypeId": "ST32",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC155",
+  "SlotTypeId": "ST33",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC156",
+  "SlotTypeId": "ST34",
+  "LecturerId": "Phuonglhk",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC157",
+  "SlotTypeId": "ST11",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC158",
+  "SlotTypeId": "ST12",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC159",
+  "SlotTypeId": "ST13",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC160",
+  "SlotTypeId": "ST14",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC161",
+  "SlotTypeId": "ST21",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC162",
+  "SlotTypeId": "ST22",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC163",
+  "SlotTypeId": "ST23",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC164",
+  "SlotTypeId": "ST24",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC165",
+  "SlotTypeId": "ST31",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC166",
+  "SlotTypeId": "ST32",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC167",
+  "SlotTypeId": "ST33",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC168",
+  "SlotTypeId": "ST34",
+  "LecturerId": "Taint5",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC169",
+  "SlotTypeId": "ST11",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC170",
+  "SlotTypeId": "ST12",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC171",
+  "SlotTypeId": "ST13",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC172",
+  "SlotTypeId": "ST14",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC173",
+  "SlotTypeId": "ST21",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC174",
+  "SlotTypeId": "ST22",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC175",
+  "SlotTypeId": "ST23",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC176",
+  "SlotTypeId": "ST24",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC177",
+  "SlotTypeId": "ST31",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC178",
+  "SlotTypeId": "ST32",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC179",
+  "SlotTypeId": "ST33",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC180",
+  "SlotTypeId": "ST34",
+  "LecturerId": "ThongNT",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC181",
+  "SlotTypeId": "ST11",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC182",
+  "SlotTypeId": "ST12",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC183",
+  "SlotTypeId": "ST13",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC184",
+  "SlotTypeId": "ST14",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC185",
+  "SlotTypeId": "ST21",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC186",
+  "SlotTypeId": "ST22",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC187",
+  "SlotTypeId": "ST23",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC188",
+  "SlotTypeId": "ST24",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC189",
+  "SlotTypeId": "ST31",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC190",
+  "SlotTypeId": "ST32",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC191",
+  "SlotTypeId": "ST33",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC192",
+  "SlotTypeId": "ST34",
+  "LecturerId": "TruongLV11",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC193",
+  "SlotTypeId": "ST11",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC194",
+  "SlotTypeId": "ST12",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC195",
+  "SlotTypeId": "ST13",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC196",
+  "SlotTypeId": "ST14",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC197",
+  "SlotTypeId": "ST21",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC198",
+  "SlotTypeId": "ST22",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC199",
+  "SlotTypeId": "ST23",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC200",
+  "SlotTypeId": "ST24",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC201",
+  "SlotTypeId": "ST31",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC202",
+  "SlotTypeId": "ST32",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC203",
+  "SlotTypeId": "ST33",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC204",
+  "SlotTypeId": "ST34",
+  "LecturerId": "TuanBA16",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC205",
+  "SlotTypeId": "ST11",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC206",
+  "SlotTypeId": "ST12",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC207",
+  "SlotTypeId": "ST13",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC208",
+  "SlotTypeId": "ST14",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC209",
+  "SlotTypeId": "ST21",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC210",
+  "SlotTypeId": "ST22",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC211",
+  "SlotTypeId": "ST23",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC212",
+  "SlotTypeId": "ST24",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC213",
+  "SlotTypeId": "ST31",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC214",
+  "SlotTypeId": "ST32",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC215",
+  "SlotTypeId": "ST33",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC216",
+  "SlotTypeId": "ST34",
+  "LecturerId": "TuanMT2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC217",
+  "SlotTypeId": "ST11",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC218",
+  "SlotTypeId": "ST12",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC219",
+  "SlotTypeId": "ST13",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC220",
+  "SlotTypeId": "ST14",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC221",
+  "SlotTypeId": "ST21",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC222",
+  "SlotTypeId": "ST22",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC223",
+  "SlotTypeId": "ST23",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC224",
+  "SlotTypeId": "ST24",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC225",
+  "SlotTypeId": "ST31",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC226",
+  "SlotTypeId": "ST32",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC227",
+  "SlotTypeId": "ST33",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ },
+ {
+  "Id": "SC228",
+  "SlotTypeId": "ST34",
+  "LecturerId": "VanTTN2",
+  "PreferenceLevel": 0,
+  "IsEnable": 1,
+  "SemesterId": "FA22",
+  "Status": 1
+ }
+]

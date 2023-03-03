@@ -1,0 +1,22 @@
+[
+ {
+  "DepartmentID": "LAB",
+  "DepartmentName": "Lab",
+  "Status": 1
+ },
+ {
+  "DepartmentID": "CFL",
+  "DepartmentName": "Computing Fundamental",
+  "Status": 1
+ },
+ {
+  "DepartmentID": "ITS",
+  "DepartmentName": "Information Technology Speciali",
+  "Status": 1
+ },
+ {
+  "DepartmentID": "SWE",
+  "DepartmentName": "Software Engineering",
+  "Status": 1
+ }
+]

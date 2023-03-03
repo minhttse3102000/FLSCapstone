@@ -1,0 +1,11 @@
+Email: duonghd818@gmail.com
+Password: duong910hm
+Role: Admin
+
+Email: huongntc712@gmail.com
+Password: duong910hm
+Role: Department Manager
+
+Email: phuonglhk1@gmail.com
+Password: duong910hm
+Role: Lecturer

@@ -1,0 +1,173 @@
+[
+ {
+  "LecturerCourseGroupID": "LG915",
+  "LecturerID": "HoaDNT",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer HoaDNT",
+  "MinCourse": 8,
+  "MaxCourse": 10,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LG916",
+  "LecturerID": "HungBT3",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer HungBT3",
+  "MinCourse": 8,
+  "MaxCourse": 11,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LG917",
+  "LecturerID": "KiemHH",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer KiemHH",
+  "MinCourse": 8,
+  "MaxCourse": 11,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LG918",
+  "LecturerID": "LoiND9",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer LoiND9",
+  "MinCourse": 8,
+  "MaxCourse": 11,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LG919",
+  "LecturerID": "TruongLV11",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer TruongLV11",
+  "MinCourse": 2,
+  "MaxCourse": 4,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LG920",
+  "LecturerID": "TuanBA16",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer TuanBA16",
+  "MinCourse": 2,
+  "MaxCourse": 4,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LG921",
+  "LecturerID": "TuanMT2",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer TuanMT2",
+  "MinCourse": 2,
+  "MaxCourse": 4,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LG8",
+  "LecturerID": "HoangNT20",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer HoangNT20",
+  "MinCourse": 8,
+  "MaxCourse": 10,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LG9",
+  "LecturerID": "HungLD5",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer HungLD5",
+  "MinCourse": 8,
+  "MaxCourse": 10,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LG10",
+  "LecturerID": "HuongNTC2",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer HuongNTC2",
+  "MinCourse": 7,
+  "MaxCourse": 9,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LG11",
+  "LecturerID": "Phuonglhk",
+  "SemesterID": "FA22",
+  "GroupName": "List course uu tien cua lecturer Phuonglhk",
+  "MinCourse": 8,
+  "MaxCourse": 11,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LGPhongVT12",
+  "LecturerID": "PhongVT12",
+  "SemesterID": "FA22",
+  "GroupName": "The priority courses of lecturer PhongVT12",
+  "MinCourse": 8,
+  "MaxCourse": 11,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LGTaint5",
+  "LecturerID": "Taint5",
+  "SemesterID": "FA22",
+  "GroupName": "The priority courses of lecturer Taint5",
+  "MinCourse": 8,
+  "MaxCourse": 11,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LGThongNT",
+  "LecturerID": "ThongNT",
+  "SemesterID": "FA22",
+  "GroupName": "The priority courses of lecturer ThongNT",
+  "MinCourse": 8,
+  "MaxCourse": 11,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LGVanTTN2",
+  "LecturerID": "VanTTN2",
+  "SemesterID": "FA22",
+  "GroupName": "The priority courses of lecturer VanTTN2",
+  "MinCourse": 8,
+  "MaxCourse": 11,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LGAnNDH2",
+  "LecturerID": "AnNDH2",
+  "SemesterID": "FA22",
+  "GroupName": "The priority courses of lecturer AnNDH2",
+  "MinCourse": 8,
+  "MaxCourse": 11,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LGKhanhKT",
+  "LecturerID": "KhanhKT",
+  "SemesterID": "FA22",
+  "GroupName": "The priority courses of lecturer KhanhKT",
+  "MinCourse": 8,
+  "MaxCourse": 10,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LGNamH3",
+  "LecturerID": "NamH3",
+  "SemesterID": "FA22",
+  "GroupName": "The priority courses of lecturer NamH3",
+  "MinCourse": 7,
+  "MaxCourse": 9,
+  "Status": 1
+ },
+ {
+  "LecturerCourseGroupID": "LGNguyenTT15",
+  "LecturerID": "NguyenTT15",
+  "SemesterID": "FA22",
+  "GroupName": "The priority courses of lecturer NguyenTT15",
+  "MinCourse": 8,
+  "MaxCourse": 11,
+  "Status": 1
+ }
+]

@@ -1,0 +1,130 @@
+import {
+  Box, MenuItem, Paper, Select, Stack, Table, TableBody, TableCell, TableContainer,
+  TableHead, TableRow, Typography
+} from '@mui/material'
+import { useEffect, useState } from 'react';
+import request from '../../utils/request';
+import Title from '../title/Title'
+
+const Slot = () => {
+  const [semesters, setSemesters] = useState([]);
+  const [selectedSemester, setSelectedSemester] = useState('');
+  const [slots, setSlots] = useState([]);
+
+  useEffect(() => {
+    const getSemesters = async () => {
+      try {
+        const response = await request.get('Semester', {
+          params: {
+            sortBy: 'DateEnd',
+            order: 'Des',
+            pageIndex: 1,
+            pageSize: 100
+          }
+        })
+        if (response.status === 200) {
+          setSemesters(response.data)
+        }
+      }
+      catch (error) {
+        alert('Fail to load Semester!')
+      }
+    }
+
+    getSemesters();
+  }, [])
+
+  useEffect(() => {
+    if (semesters.length > 0) {
+      let state = false;
+      const currentDate = new Date();
+      for (let i in semesters) {
+        if (currentDate >= new Date(semesters[i].DateStartFormat) &&
+          currentDate <= new Date(semesters[i].DateEndFormat)) {
+          state = true;
+          setSelectedSemester(semesters[i].Id)
+          break;
+        }
+      }
+      if (!state) {
+        setSelectedSemester(semesters[0].Id)
+      }
+    }
+  }, [semesters])
+
+  useEffect(() => {
+    if (selectedSemester) {
+      request.get('SlotType', {
+        params: {
+          SemesterId: selectedSemester,
+          sortBy: 'Id',
+          order: 'Asc',
+          pageIndex: 1,
+          pageSize: 100,
+        }
+      })
+        .then(res => {
+          if (res.status === 200) {
+            setSlots(res.data)
+          }
+        })
+        .catch(err => {
+          alert('Fail to load slot!')
+        })
+    }
+  }, [selectedSemester])
+
+  const changeSemester = (e) => {
+    setSelectedSemester(e.target.value)
+  }
+
+  return (
+    <Stack flex={5} height='90vh' overflow='auto'>
+      <Stack mt={1} mb={4} px={9}>
+        <Title title='Slot' subTitle='List of slot type and time' />
+      </Stack>
+      <Stack direction='row' gap={1} alignItems='center' px={9} mb={1}>
+        <Typography fontWeight={500}>Semester</Typography>
+        <Select color='success'
+          size='small'
+          value={selectedSemester}
+          onChange={changeSemester}
+        >
+          {
+            semesters.map(semester => (
+              <MenuItem value={semester.Id} key={semester.Id}>
+                {semester.Term}
+              </MenuItem>
+            ))
+          }
+        </Select>
+      </Stack>
+      <Stack px={9} mb={2}>
+        <Paper sx={{ minWidth: 700 }}>
+          <TableContainer component={Box}>
+            <Table>
+              <TableHead>
+                <TableRow>
+                  <TableCell size='small' className='subject-header'>Day of Week</TableCell>
+                  <TableCell size='small' className='subject-header'>Duration</TableCell>
+                  <TableCell size='small' className='subject-header'>Slot Number</TableCell>
+                </TableRow>
+              </TableHead>
+              <TableBody>
+                {slots.map(slot => (
+                  <TableRow key={slot.Id} hover>
+                    <TableCell size='small'>{slot.ConvertDateOfWeek}</TableCell>
+                    <TableCell size='small'>{slot.Duration}</TableCell>
+                    <TableCell size='small'>{slot.SlotNumber}</TableCell>
+                  </TableRow>
+                ))}
+              </TableBody>
+            </Table>
+          </TableContainer>
+        </Paper>
+      </Stack>
+    </Stack>
+  )
+}
+
+export default Slot

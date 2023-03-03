@@ -1,0 +1,14 @@
+[
+ {
+  "ID": "CA1",
+  "LecturerID": "HoaDNT",
+  "CourseID": "CSD201_SE1744",
+  "SlotTypeID": "ST12"
+ },
+ {
+  "ID": "CA2",
+  "LecturerID": "HoaDNT",
+  "CourseID": "CSD201_SE1734",
+  "SlotTypeID": "ST13"
+ }
+]

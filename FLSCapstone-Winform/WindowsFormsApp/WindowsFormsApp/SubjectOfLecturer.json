@@ -1,0 +1,2292 @@
+[
+ {
+  "SubjectOfLecturerID": "SOL1",
+  "SemesterID": "FA22",
+  "SubjectID": "ADY201m",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL2",
+  "SemesterID": "FA22",
+  "SubjectID": "CEA201",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 5,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL3",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD201",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 3,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL4",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD203",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 5,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL5",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD301",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 1,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL6",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI104",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 3,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL7",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI105",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL8",
+  "SemesterID": "FA22",
+  "SubjectID": "DBI202",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 2,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 0
+ },
+ {
+  "SubjectOfLecturerID": "SOL9",
+  "SemesterID": "FA22",
+  "SubjectID": "IOT102",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 4,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL10",
+  "SemesterID": "FA22",
+  "SubjectID": "OSG202",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL11",
+  "SemesterID": "FA22",
+  "SubjectID": "PFP191",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 3,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL12",
+  "SemesterID": "FA22",
+  "SubjectID": "PRE201c",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 4,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL13",
+  "SemesterID": "FA22",
+  "SubjectID": "PRF192",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL14",
+  "SemesterID": "FA22",
+  "SubjectID": "PRJ301",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 3,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL15",
+  "SemesterID": "FA22",
+  "SubjectID": "PRO192",
+  "LecturerID": "HoaDNT",
+  "Favorite point": 2,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL16",
+  "SemesterID": "FA22",
+  "SubjectID": "ADY201m",
+  "LecturerID": "HungBT3",
+  "Favorite point": 1,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL17",
+  "SemesterID": "FA22",
+  "SubjectID": "CEA201",
+  "LecturerID": "HungBT3",
+  "Favorite point": 1,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL18",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD201",
+  "LecturerID": "HungBT3",
+  "Favorite point": 5,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL19",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD203",
+  "LecturerID": "HungBT3",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL20",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD301",
+  "LecturerID": "HungBT3",
+  "Favorite point": 2,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL21",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI104",
+  "LecturerID": "HungBT3",
+  "Favorite point": 1,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL22",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI105",
+  "LecturerID": "HungBT3",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL23",
+  "SemesterID": "FA22",
+  "SubjectID": "DBI202",
+  "LecturerID": "HungBT3",
+  "Favorite point": 5,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL24",
+  "SemesterID": "FA22",
+  "SubjectID": "IOT102",
+  "LecturerID": "HungBT3",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL25",
+  "SemesterID": "FA22",
+  "SubjectID": "OSG202",
+  "LecturerID": "HungBT3",
+  "Favorite point": 4,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL26",
+  "SemesterID": "FA22",
+  "SubjectID": "PFP191",
+  "LecturerID": "HungBT3",
+  "Favorite point": 4,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL27",
+  "SemesterID": "FA22",
+  "SubjectID": "PRE201c",
+  "LecturerID": "HungBT3",
+  "Favorite point": 5,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL28",
+  "SemesterID": "FA22",
+  "SubjectID": "PRF192",
+  "LecturerID": "HungBT3",
+  "Favorite point": 1,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL29",
+  "SemesterID": "FA22",
+  "SubjectID": "PRJ301",
+  "LecturerID": "HungBT3",
+  "Favorite point": 4,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL30",
+  "SemesterID": "FA22",
+  "SubjectID": "PRO192",
+  "LecturerID": "HungBT3",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL31",
+  "SemesterID": "FA22",
+  "SubjectID": "ADY201m",
+  "LecturerID": "KiemHH",
+  "Favorite point": 4,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL32",
+  "SemesterID": "FA22",
+  "SubjectID": "CEA201",
+  "LecturerID": "KiemHH",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL33",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD201",
+  "LecturerID": "KiemHH",
+  "Favorite point": 1,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL34",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD203",
+  "LecturerID": "KiemHH",
+  "Favorite point": 2,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL35",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD301",
+  "LecturerID": "KiemHH",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL36",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI104",
+  "LecturerID": "KiemHH",
+  "Favorite point": 5,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL37",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI105",
+  "LecturerID": "KiemHH",
+  "Favorite point": 3,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL38",
+  "SemesterID": "FA22",
+  "SubjectID": "DBI202",
+  "LecturerID": "KiemHH",
+  "Favorite point": 3,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL39",
+  "SemesterID": "FA22",
+  "SubjectID": "IOT102",
+  "LecturerID": "KiemHH",
+  "Favorite point": 1,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL40",
+  "SemesterID": "FA22",
+  "SubjectID": "OSG202",
+  "LecturerID": "KiemHH",
+  "Favorite point": 2,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL41",
+  "SemesterID": "FA22",
+  "SubjectID": "PFP191",
+  "LecturerID": "KiemHH",
+  "Favorite point": 2,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL42",
+  "SemesterID": "FA22",
+  "SubjectID": "PRE201c",
+  "LecturerID": "KiemHH",
+  "Favorite point": 5,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL43",
+  "SemesterID": "FA22",
+  "SubjectID": "PRF192",
+  "LecturerID": "KiemHH",
+  "Favorite point": 3,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL44",
+  "SemesterID": "FA22",
+  "SubjectID": "PRJ301",
+  "LecturerID": "KiemHH",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL45",
+  "SemesterID": "FA22",
+  "SubjectID": "PRO192",
+  "LecturerID": "KiemHH",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL46",
+  "SemesterID": "FA22",
+  "SubjectID": "ADY201m",
+  "LecturerID": "LoiND9",
+  "Favorite point": 5,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL47",
+  "SemesterID": "FA22",
+  "SubjectID": "CEA201",
+  "LecturerID": "LoiND9",
+  "Favorite point": 3,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL48",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD201",
+  "LecturerID": "LoiND9",
+  "Favorite point": 4,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL49",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD203",
+  "LecturerID": "LoiND9",
+  "Favorite point": 4,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL50",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD301",
+  "LecturerID": "LoiND9",
+  "Favorite point": 4,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL51",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI104",
+  "LecturerID": "LoiND9",
+  "Favorite point": 4,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL52",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI105",
+  "LecturerID": "LoiND9",
+  "Favorite point": 2,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL53",
+  "SemesterID": "FA22",
+  "SubjectID": "DBI202",
+  "LecturerID": "LoiND9",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL54",
+  "SemesterID": "FA22",
+  "SubjectID": "IOT102",
+  "LecturerID": "LoiND9",
+  "Favorite point": 5,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL55",
+  "SemesterID": "FA22",
+  "SubjectID": "OSG202",
+  "LecturerID": "LoiND9",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL56",
+  "SemesterID": "FA22",
+  "SubjectID": "PFP191",
+  "LecturerID": "LoiND9",
+  "Favorite point": 3,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL57",
+  "SemesterID": "FA22",
+  "SubjectID": "PRE201c",
+  "LecturerID": "LoiND9",
+  "Favorite point": 2,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL58",
+  "SemesterID": "FA22",
+  "SubjectID": "PRF192",
+  "LecturerID": "LoiND9",
+  "Favorite point": 1,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL59",
+  "SemesterID": "FA22",
+  "SubjectID": "PRJ301",
+  "LecturerID": "LoiND9",
+  "Favorite point": 5,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL60",
+  "SemesterID": "FA22",
+  "SubjectID": "PRO192",
+  "LecturerID": "LoiND9",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL61",
+  "SemesterID": "FA22",
+  "SubjectID": "ADY201m",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 3,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL62",
+  "SemesterID": "FA22",
+  "SubjectID": "CEA201",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 2,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL63",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD201",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 4,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL64",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD203",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL65",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD301",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL66",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI104",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL67",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI105",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL68",
+  "SemesterID": "FA22",
+  "SubjectID": "DBI202",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 3,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL69",
+  "SemesterID": "FA22",
+  "SubjectID": "IOT102",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL70",
+  "SemesterID": "FA22",
+  "SubjectID": "OSG202",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 4,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL71",
+  "SemesterID": "FA22",
+  "SubjectID": "PFP191",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 3,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL72",
+  "SemesterID": "FA22",
+  "SubjectID": "PRE201c",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 2,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL73",
+  "SemesterID": "FA22",
+  "SubjectID": "PRF192",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 3,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL74",
+  "SemesterID": "FA22",
+  "SubjectID": "PRJ301",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 3,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL75",
+  "SemesterID": "FA22",
+  "SubjectID": "PRO192",
+  "LecturerID": "TruongLV11",
+  "Favorite point": 4,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL76",
+  "SemesterID": "FA22",
+  "SubjectID": "ADY201m",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 3,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL77",
+  "SemesterID": "FA22",
+  "SubjectID": "CEA201",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 1,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL78",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD201",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 3,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL79",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD203",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 1,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL80",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD301",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 2,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL81",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI104",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 5,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL82",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI105",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 4,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL83",
+  "SemesterID": "FA22",
+  "SubjectID": "DBI202",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL84",
+  "SemesterID": "FA22",
+  "SubjectID": "IOT102",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 1,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL85",
+  "SemesterID": "FA22",
+  "SubjectID": "OSG202",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL86",
+  "SemesterID": "FA22",
+  "SubjectID": "PFP191",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 1,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL87",
+  "SemesterID": "FA22",
+  "SubjectID": "PRE201c",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 1,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL88",
+  "SemesterID": "FA22",
+  "SubjectID": "PRF192",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 5,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL89",
+  "SemesterID": "FA22",
+  "SubjectID": "PRJ301",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 5,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL90",
+  "SemesterID": "FA22",
+  "SubjectID": "PRO192",
+  "LecturerID": "TuanBA16",
+  "Favorite point": 2,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL91",
+  "SemesterID": "FA22",
+  "SubjectID": "ADY201m",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 2,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL92",
+  "SemesterID": "FA22",
+  "SubjectID": "CEA201",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 4,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL93",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD201",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 3,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL94",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD203",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 4,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL95",
+  "SemesterID": "FA22",
+  "SubjectID": "CSD301",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 3,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL96",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI104",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL97",
+  "SemesterID": "FA22",
+  "SubjectID": "CSI105",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 4,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL98",
+  "SemesterID": "FA22",
+  "SubjectID": "DBI202",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 2,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL99",
+  "SemesterID": "FA22",
+  "SubjectID": "IOT102",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 5,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL100",
+  "SemesterID": "FA22",
+  "SubjectID": "OSG202",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 2,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL101",
+  "SemesterID": "FA22",
+  "SubjectID": "PFP191",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 3,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL102",
+  "SemesterID": "FA22",
+  "SubjectID": "PRE201c",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 2,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL103",
+  "SemesterID": "FA22",
+  "SubjectID": "PRF192",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 1,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL104",
+  "SemesterID": "FA22",
+  "SubjectID": "PRJ301",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 3,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL105",
+  "SemesterID": "FA22",
+  "SubjectID": "PRO192",
+  "LecturerID": "TuanMT2",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL106",
+  "SemesterID": "FA22",
+  "SubjectID": "FER201m",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL107",
+  "SemesterID": "FA22",
+  "SubjectID": "HCI201",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL108",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN211",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL109",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN221",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL110",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN231",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL111",
+  "SemesterID": "FA22",
+  "SubjectID": "PRU211m",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL112",
+  "SemesterID": "FA22",
+  "SubjectID": "PRU221m",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL113",
+  "SemesterID": "FA22",
+  "SubjectID": "SWD391",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL114",
+  "SemesterID": "FA22",
+  "SubjectID": "SWD392",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL115",
+  "SemesterID": "FA22",
+  "SubjectID": "SWP391",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL116",
+  "SemesterID": "FA22",
+  "SubjectID": "SWR302",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL117",
+  "SemesterID": "FA22",
+  "SubjectID": "SWT301",
+  "LecturerID": "HoangNT20",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL118",
+  "SemesterID": "FA22",
+  "SubjectID": "FER201m",
+  "LecturerID": "HungLD5",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL119",
+  "SemesterID": "FA22",
+  "SubjectID": "HCI201",
+  "LecturerID": "HungLD5",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL120",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN211",
+  "LecturerID": "HungLD5",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL121",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN221",
+  "LecturerID": "HungLD5",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL122",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN231",
+  "LecturerID": "HungLD5",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL123",
+  "SemesterID": "FA22",
+  "SubjectID": "PRU211m",
+  "LecturerID": "HungLD5",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL124",
+  "SemesterID": "FA22",
+  "SubjectID": "PRU221m",
+  "LecturerID": "HungLD5",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL125",
+  "SemesterID": "FA22",
+  "SubjectID": "SWD391",
+  "LecturerID": "HungLD5",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL126",
+  "SemesterID": "FA22",
+  "SubjectID": "SWD392",
+  "LecturerID": "HungLD5",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL127",
+  "SemesterID": "FA22",
+  "SubjectID": "SWP391",
+  "LecturerID": "HungLD5",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL128",
+  "SemesterID": "FA22",
+  "SubjectID": "SWR302",
+  "LecturerID": "HungLD5",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL129",
+  "SemesterID": "FA22",
+  "SubjectID": "SWT301",
+  "LecturerID": "HungLD5",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL130",
+  "SemesterID": "FA22",
+  "SubjectID": "FER201m",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL131",
+  "SemesterID": "FA22",
+  "SubjectID": "HCI201",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL132",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN211",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL133",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN221",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL134",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN231",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL135",
+  "SemesterID": "FA22",
+  "SubjectID": "PRU211m",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL136",
+  "SemesterID": "FA22",
+  "SubjectID": "PRU221m",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL137",
+  "SemesterID": "FA22",
+  "SubjectID": "SWD391",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL138",
+  "SemesterID": "FA22",
+  "SubjectID": "SWD392",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL139",
+  "SemesterID": "FA22",
+  "SubjectID": "SWP391",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL140",
+  "SemesterID": "FA22",
+  "SubjectID": "SWR302",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL141",
+  "SemesterID": "FA22",
+  "SubjectID": "SWT301",
+  "LecturerID": "HuongNTC2",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL142",
+  "SemesterID": "FA22",
+  "SubjectID": "FER201m",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL143",
+  "SemesterID": "FA22",
+  "SubjectID": "HCI201",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL144",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN211",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL145",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN221",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL146",
+  "SemesterID": "FA22",
+  "SubjectID": "PRN231",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL147",
+  "SemesterID": "FA22",
+  "SubjectID": "PRU211m",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL148",
+  "SemesterID": "FA22",
+  "SubjectID": "PRU221m",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL149",
+  "SemesterID": "FA22",
+  "SubjectID": "SWD391",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL150",
+  "SemesterID": "FA22",
+  "SubjectID": "SWD392",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL151",
+  "SemesterID": "FA22",
+  "SubjectID": "SWP391",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL152",
+  "SemesterID": "FA22",
+  "SubjectID": "SWR302",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL153",
+  "SemesterID": "FA22",
+  "SubjectID": "SWT301",
+  "LecturerID": "Phuonglhk",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL155",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB211",
+  "LecturerID": "PhongVT12",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL156",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB221",
+  "LecturerID": "PhongVT12",
+  "Favorite point": 4,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL157",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB231",
+  "LecturerID": "PhongVT12",
+  "Favorite point": 2,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL158",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB211",
+  "LecturerID": "Taint5",
+  "Favorite point": 5,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL159",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB221",
+  "LecturerID": "Taint5",
+  "Favorite point": 2,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL160",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB231",
+  "LecturerID": "Taint5",
+  "Favorite point": 2,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL161",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB211",
+  "LecturerID": "ThongNT",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL162",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB221",
+  "LecturerID": "ThongNT",
+  "Favorite point": 5,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL163",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB231",
+  "LecturerID": "ThongNT",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL164",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB211",
+  "LecturerID": "VanTTN2",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL165",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB221",
+  "LecturerID": "VanTTN2",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL166",
+  "SemesterID": "FA22",
+  "SubjectID": "LAB231",
+  "LecturerID": "VanTTN2",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL168",
+  "SemesterID": "FA22",
+  "SubjectID": "AAD305b",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL169",
+  "SemesterID": "FA22",
+  "SubjectID": "AIG201c",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL170",
+  "SemesterID": "FA22",
+  "SubjectID": "AIL302m",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL171",
+  "SemesterID": "FA22",
+  "SubjectID": "AIP391",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL172",
+  "SemesterID": "FA22",
+  "SubjectID": "AIT301",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL173",
+  "SemesterID": "FA22",
+  "SubjectID": "BDP306b",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL174",
+  "SemesterID": "FA22",
+  "SubjectID": "DBM301",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL175",
+  "SemesterID": "FA22",
+  "SubjectID": "DBP391",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL176",
+  "SemesterID": "FA22",
+  "SubjectID": "DBW301",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL177",
+  "SemesterID": "FA22",
+  "SubjectID": "DGT301",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL178",
+  "SemesterID": "FA22",
+  "SubjectID": "DMT301",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL179",
+  "SemesterID": "FA22",
+  "SubjectID": "ESS301",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL180",
+  "SemesterID": "FA22",
+  "SubjectID": "ISC301",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL181",
+  "SemesterID": "FA22",
+  "SubjectID": "PRM391",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL182",
+  "SemesterID": "FA22",
+  "SubjectID": "PRM392",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL183",
+  "SemesterID": "FA22",
+  "SubjectID": "PRX301",
+  "LecturerID": "AnNDH2",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL184",
+  "SemesterID": "FA22",
+  "SubjectID": "AAD305b",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL185",
+  "SemesterID": "FA22",
+  "SubjectID": "AIG201c",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL186",
+  "SemesterID": "FA22",
+  "SubjectID": "AIL302m",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL187",
+  "SemesterID": "FA22",
+  "SubjectID": "AIP391",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL188",
+  "SemesterID": "FA22",
+  "SubjectID": "AIT301",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL189",
+  "SemesterID": "FA22",
+  "SubjectID": "BDP306b",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL190",
+  "SemesterID": "FA22",
+  "SubjectID": "DBM301",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL191",
+  "SemesterID": "FA22",
+  "SubjectID": "DBP391",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL192",
+  "SemesterID": "FA22",
+  "SubjectID": "DBW301",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL193",
+  "SemesterID": "FA22",
+  "SubjectID": "DGT301",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL194",
+  "SemesterID": "FA22",
+  "SubjectID": "DMT301",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL195",
+  "SemesterID": "FA22",
+  "SubjectID": "ESS301",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL196",
+  "SemesterID": "FA22",
+  "SubjectID": "ISC301",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL197",
+  "SemesterID": "FA22",
+  "SubjectID": "PRM391",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL198",
+  "SemesterID": "FA22",
+  "SubjectID": "PRM392",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 3,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL199",
+  "SemesterID": "FA22",
+  "SubjectID": "PRX301",
+  "LecturerID": "KhanhKT",
+  "Favorite point": 2,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL200",
+  "SemesterID": "FA22",
+  "SubjectID": "AAD305b",
+  "LecturerID": "NamH3",
+  "Favorite point": 1,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL201",
+  "SemesterID": "FA22",
+  "SubjectID": "AIG201c",
+  "LecturerID": "NamH3",
+  "Favorite point": 3,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL202",
+  "SemesterID": "FA22",
+  "SubjectID": "AIL302m",
+  "LecturerID": "NamH3",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL203",
+  "SemesterID": "FA22",
+  "SubjectID": "AIP391",
+  "LecturerID": "NamH3",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL204",
+  "SemesterID": "FA22",
+  "SubjectID": "AIT301",
+  "LecturerID": "NamH3",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL205",
+  "SemesterID": "FA22",
+  "SubjectID": "BDP306b",
+  "LecturerID": "NamH3",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL206",
+  "SemesterID": "FA22",
+  "SubjectID": "DBM301",
+  "LecturerID": "NamH3",
+  "Favorite point": 3,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL207",
+  "SemesterID": "FA22",
+  "SubjectID": "DBP391",
+  "LecturerID": "NamH3",
+  "Favorite point": 2,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL208",
+  "SemesterID": "FA22",
+  "SubjectID": "DBW301",
+  "LecturerID": "NamH3",
+  "Favorite point": 1,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL209",
+  "SemesterID": "FA22",
+  "SubjectID": "DGT301",
+  "LecturerID": "NamH3",
+  "Favorite point": 3,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL210",
+  "SemesterID": "FA22",
+  "SubjectID": "DMT301",
+  "LecturerID": "NamH3",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL211",
+  "SemesterID": "FA22",
+  "SubjectID": "ESS301",
+  "LecturerID": "NamH3",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL212",
+  "SemesterID": "FA22",
+  "SubjectID": "ISC301",
+  "LecturerID": "NamH3",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL213",
+  "SemesterID": "FA22",
+  "SubjectID": "PRM391",
+  "LecturerID": "NamH3",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL214",
+  "SemesterID": "FA22",
+  "SubjectID": "PRM392",
+  "LecturerID": "NamH3",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL215",
+  "SemesterID": "FA22",
+  "SubjectID": "PRX301",
+  "LecturerID": "NamH3",
+  "Favorite point": 2,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL216",
+  "SemesterID": "FA22",
+  "SubjectID": "AAD305b",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL217",
+  "SemesterID": "FA22",
+  "SubjectID": "AIG201c",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL218",
+  "SemesterID": "FA22",
+  "SubjectID": "AIL302m",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL219",
+  "SemesterID": "FA22",
+  "SubjectID": "AIP391",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 3,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL220",
+  "SemesterID": "FA22",
+  "SubjectID": "AIT301",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 2,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL221",
+  "SemesterID": "FA22",
+  "SubjectID": "BDP306b",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 1,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL222",
+  "SemesterID": "FA22",
+  "SubjectID": "DBM301",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 3,
+  "Feedback point": 2,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL223",
+  "SemesterID": "FA22",
+  "SubjectID": "DBP391",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL224",
+  "SemesterID": "FA22",
+  "SubjectID": "DBW301",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL225",
+  "SemesterID": "FA22",
+  "SubjectID": "DGT301",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL226",
+  "SemesterID": "FA22",
+  "SubjectID": "DMT301",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 5,
+  "Feedback point": 5,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL227",
+  "SemesterID": "FA22",
+  "SubjectID": "ESS301",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL228",
+  "SemesterID": "FA22",
+  "SubjectID": "ISC301",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 1,
+  "Feedback point": 1,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL229",
+  "SemesterID": "FA22",
+  "SubjectID": "PRM391",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL230",
+  "SemesterID": "FA22",
+  "SubjectID": "PRM392",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 3,
+  "Feedback point": 3,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ },
+ {
+  "SubjectOfLecturerID": "SOL231",
+  "SemesterID": "FA22",
+  "SubjectID": "PRX301",
+  "LecturerID": "NguyenTT15",
+  "Favorite point": 4,
+  "Feedback point": 4,
+  "MaxCourseSubject": 3,
+  "Status": 1
+ }
+]

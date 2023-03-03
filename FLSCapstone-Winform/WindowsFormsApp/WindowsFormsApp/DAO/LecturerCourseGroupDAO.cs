@@ -1,0 +1,114 @@
+﻿using FPTULecturerScheduler.Entity;
+using Newtonsoft.Json;
+using OfficeOpenXml;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace WindowsFormsApp.DAO
+{
+    public class LecturerCourseGroupDAO
+    {
+        public static List<LecturerCourseGroup> getLecturerCourseGroupFromExcel(string fileName)
+        {
+            List<LecturerCourseGroup> LecturerCourseGroupList = new List<LecturerCourseGroup>();
+            try
+            {
+                FileInfo file = new FileInfo(fileName);
+
+                // mở file excel
+                var package = new ExcelPackage(new FileInfo(fileName));
+                // lấy ra sheet đầu tiên để thao tác
+                ExcelWorksheet workSheet = package.Workbook.Worksheets[0];
+
+                // duyệt tuần tự từ dòng thứ 2 đến dòng cuối cùng của file. lưu ý file excel bắt đầu từ số 1 không phải số 0
+                for (int i = workSheet.Dimension.Start.Row + 1; i <= workSheet.Dimension.End.Row; i++)
+                {
+                    try
+                    {
+                        // biến j biểu thị cho một column trong file
+                        int j = 1;
+
+                        // lấy ra cột họ tên tương ứng giá trị tại vị trí [i, 1]. i lần đầu là 2
+                        // tăng j lên 1 đơn vị sau khi thực hiện xong câu lệnh
+                        string lecturerCourseGroupID = workSheet.Cells[i, j++].Value.ToString();
+                        string lecturerID = workSheet.Cells[i, j++].Value.ToString();
+                        string semesterID = workSheet.Cells[i, j++].Value.ToString();
+                        string groupName = workSheet.Cells[i, j++].Value.ToString();
+                        string minCourse = workSheet.Cells[i, j++].Value.ToString();
+                        string maxCourse = workSheet.Cells[i, j++].Value.ToString();
+                        string status = workSheet.Cells[i, j++].Value.ToString();
+                        // lấy ra cột ngày sinh tương ứng giá trị tại vị trí [i, 2]. i lần đầu là 2
+                        // tăng j lên 1 đơn vị sau khi thực hiện xong câu lệnh
+                        // lấy ra giá trị ngày tháng và ép kiểu thành DateTime                      
+                        //var birthdayTemp = workSheet.Cells[i, j++].Value;
+
+                        LecturerCourseGroup lecturerCourseGroup = new LecturerCourseGroup(lecturerCourseGroupID, lecturerID, semesterID, groupName, Int32.Parse(minCourse), Int32.Parse(maxCourse), Int32.Parse(status));
+                        /*                         
+
+                        Đừng lười biến mà dùng đoạn code này sẽ gây ra lỗi nếu giá trị value không thỏa kiểu DateTime
+
+                        DateTime birthday = (DateTime)workSheet.Cells[i, j++].Value;
+
+                         */
+
+
+
+
+                        // add course vào danh sách courseList
+                        LecturerCourseGroupList.Add(lecturerCourseGroup);
+
+                    }
+                    catch (Exception exe)
+                    {
+                        Console.WriteLine(exe.Message);
+
+                    }
+                }
+            }
+            catch (Exception ee)
+            {
+                Console.WriteLine(ee.Message);
+            }
+
+            return LecturerCourseGroupList;
+
+        }
+
+        public static List<LecturerCourseGroup> ReadDataJsonLecturerCourseGroup(string filePath)
+        {
+            List<LecturerCourseGroup> lecturerCourseGroups = new List<LecturerCourseGroup>();
+            using (StreamReader sr = File.OpenText(filePath))
+            {
+                var obj = sr.ReadToEnd();
+                lecturerCourseGroups = JsonConvert.DeserializeObject<List<LecturerCourseGroup>>(obj);
+
+            }
+
+            return lecturerCourseGroups;
+        }
+
+        public void WriteData(List<LecturerCourseGroup> lecturerCourseGroups)
+        {
+            try
+            {
+                if (lecturerCourseGroups != null)
+                {
+                    using (StreamWriter sw = File.CreateText(@"D:\LecturerCourseGroupJS.json"))
+                    {
+                        var lecturerCourseGroupsJson = JsonConvert.SerializeObject(lecturerCourseGroups);
+                        sw.WriteLine(lecturerCourseGroupsJson);
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+        }
+    }
+}

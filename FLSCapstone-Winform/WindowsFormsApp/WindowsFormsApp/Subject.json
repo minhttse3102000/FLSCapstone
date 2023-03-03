@@ -1,0 +1,324 @@
+[
+ {
+  "SubjectID": "ADY201m",
+  "SubjectName": "AI, DS with Python & SQL",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "CEA201",
+  "SubjectName": "Computer Organization and Architecture",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "CSD201",
+  "SubjectName": "Data Structures and Algorithms",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "CSD203",
+  "SubjectName": "Cấu trúc dữ liệu và giải thuật với Python",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "CSD301",
+  "SubjectName": "Advanced Algorithms",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "CSI104",
+  "SubjectName": "Introduction to computing",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "CSI105",
+  "SubjectName": "Introduction to Computer Science",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "DBI202",
+  "SubjectName": "Database Systems",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "IOT102",
+  "SubjectName": "Internet of Things",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "OSG202",
+  "SubjectName": "Operating Systems",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PFP191",
+  "SubjectName": "Programming fundamental with Python",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRE201c",
+  "SubjectName": "Excel Programming",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRF192",
+  "SubjectName": "Programming Fundamentals",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRJ301",
+  "SubjectName": "Java Web application development",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRO192",
+  "SubjectName": "Object-Oriented Programming",
+  "DepartmentID": "CFL",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "AAD305b",
+  "SubjectName": "Final Project - Automotive Application Development",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "AIG201c",
+  "SubjectName": "Artificial Intelligence",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "AIL302m",
+  "SubjectName": "Machine Learning",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "AIP391",
+  "SubjectName": "AI programming project",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "AIT301",
+  "SubjectName": "AI with Tensorflow",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "BDP306b",
+  "SubjectName": "Final Project - Blockchain Development in Finance",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "DBM301",
+  "SubjectName": "Data mining",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "DBP391",
+  "SubjectName": "Data Mining Project",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "DBW301",
+  "SubjectName": "Data warehouse",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "DGT301",
+  "SubjectName": "Digital Signal Processing",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "DMT301",
+  "SubjectName": "Data mining with Tensorflow",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "ESS301",
+  "SubjectName": "Embedded Software Development",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "ISC301",
+  "SubjectName": "e-Commerce",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRM391",
+  "SubjectName": "Mobile Programming",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRM392",
+  "SubjectName": "Mobile Programming",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRX301",
+  "SubjectName": "Advanced XML for Java and Javascript",
+  "DepartmentID": "ITS",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "LAB211",
+  "SubjectName": "OOP with Java Lab",
+  "DepartmentID": "LAB",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "LAB221",
+  "SubjectName": "Desktop Java Lab",
+  "DepartmentID": "LAB",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "LAB231",
+  "SubjectName": "Web Java Lab",
+  "DepartmentID": "LAB",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "FER201m",
+  "SubjectName": "Front-End web development with React",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "HCI201",
+  "SubjectName": "Human-Computer Interaction",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRN211",
+  "SubjectName": "Basic Cross-Platform Application Programming With .NET",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRN221",
+  "SubjectName": "Advanced Cross-Platform Application Programming With .NET",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRN231",
+  "SubjectName": "Building Cross-Platform Back-End Application With .NET",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRU211m",
+  "SubjectName": "C# Programming and Unity",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "PRU221m",
+  "SubjectName": "Object-Oriented Programming for Unity Games",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "SWD391",
+  "SubjectName": "Software Architecture and Design",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "SWD392",
+  "SubjectName": "SW Architecture and Design",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "SWP391",
+  "SubjectName": "Software development project",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "SWR302",
+  "SubjectName": "Software Requirements",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ },
+ {
+  "SubjectID": "SWT301",
+  "SubjectName": "Software Testing",
+  "DepartmentID": "SWE",
+  "Description": "Null",
+  "Status": 1
+ }
+]
